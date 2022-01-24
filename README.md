@@ -117,4 +117,6 @@
     </a>
 </p>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FJackandoggy%2Fe&envs=API_ID%2CAPI_HASH%2CAUTH_USERS%2CBOT_TOKEN%2CTG_USER_SESSION&referralCode=ALIF)
+
 
